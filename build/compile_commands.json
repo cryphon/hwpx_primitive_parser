@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/Nazuna/cryphon/hwpx_parser/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I/usr/include/libxml2 -isystem /usr/include/qt -isystem /usr/include/qt/QtWidgets -isystem /usr/include/qt/QtGui -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -std=gnu++11 -fPIC -o CMakeFiles/hwpx_viewer.dir/main.cpp.o -c /home/Nazuna/cryphon/hwpx_parser/main.cpp",
+  "file": "/home/Nazuna/cryphon/hwpx_parser/main.cpp",
+  "output": "CMakeFiles/hwpx_viewer.dir/main.cpp.o"
+}
+]

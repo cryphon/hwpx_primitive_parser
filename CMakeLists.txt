@@ -4,6 +4,8 @@ project(HWPXViewer)
 
 set(CMAKE_CXX_STANDARD 11)
 
+set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
+
 find_package(Qt5Widgets REQUIRED)
 find_package(LibXml2 REQUIRED)
 find_library(LIBZIP_LIB zip)
